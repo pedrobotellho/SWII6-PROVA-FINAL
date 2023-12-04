@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWII6_Prova2_API.props" />
+</Project>
